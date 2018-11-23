@@ -1,5 +1,5 @@
 token=NTE1NDk0Njk3NDI3NTMzODI2.Dtl7pg.jUthz6rsO8-L6UAXGuEHqHqYQyc
-owner=310014765235961856 
+owner=346066545107009537 
 prefix=-
 game= Black Shop :musical_note:
 stayinchannel=true
